@@ -11,6 +11,8 @@ public class HowToExceptions {
 		int a=4;
 		int b=0;
 		//double c=a/b;
+
+		System.out.println("We are learning Java Exception Handling");
 		
 		try {
 			double c=a/b;
